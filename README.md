@@ -1,4 +1,4 @@
-# FourWayGame
+# 2D spaceship game
 
 - Try to avoid the missles for as long as you can! 
 
